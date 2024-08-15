@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align='center'>灌注
-[南秋SouthAki](https://github.com/xieleihan)
+<a href="https://github.com/xieleihan">南秋SouthAki</a>
 谢谢喵</p>
 <p align="center">
  <img width="150px" src="https://avatars.githubusercontent.com/u/167201966?v=4" align="center" alt="Avator" />
